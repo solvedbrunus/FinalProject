@@ -1,5 +1,7 @@
 arq/
 healthcare_dataset.csv
 healthcare_dataset/
-healthcare_pds/
+healthcare_pdfs/
+9789241513906-eng.pdf
+whoheatlhStat.pdf
 .env
