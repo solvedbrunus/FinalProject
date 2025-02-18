@@ -1,0 +1,5 @@
+arq/
+healthcare_dataset.csv
+healthcare_dataset/
+healthcare_pds/
+.env
