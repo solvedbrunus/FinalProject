@@ -52,13 +52,13 @@ def main():
         )
 
         st.header("Example Questions")
-        st.markdown("- What is the average duration in days for closed emergency visits?")
+        st.markdown("- What is the average duration in days by admission type?")
         st.markdown("- What was the total billing amount charged to each payer for 2023?")
-        st.markdown("- How much was billed for patient 789's stay?")
+        st.markdown("- How much was billed for patient with medicare?")
         st.markdown("- How are the most common admission types?")
         st.markdown("- What are the best practices to prevent diabetes?")
         st.markdown("- What are the most common procedures performed in the hospital?")
-        st.markdown("- How can understanding commonly deployed quality interventions and their effectiveness help improve health systems worldwide, despite differences in context??")
+        st.markdown("- How can the quality of interventions improve healthcare pratice??")
 
     # Main chat interface
     st.title("Hospital System Chatbot")
